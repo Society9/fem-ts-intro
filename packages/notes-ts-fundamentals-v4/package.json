@@ -9,6 +9,7 @@
     "typescript": "5.3.0-beta"
   },
   "scripts": {
+    "dev": "tsc --watch --preserveWatchOutput",
     "build": "yarn tsc"
   }
 }
